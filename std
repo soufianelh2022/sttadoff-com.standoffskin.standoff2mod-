@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "name": "Nature",
+      "image": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material_Glass/aurora.png",
+      "wallpapers": [
+        {
+          "id": "nature1",
+          "title": "Mountain Landscape",
+          "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material_Glass/a_material_glass.png"
+        },
+        {
+          "id": "nature2",
+          "title": "Tropical Beach",
+          "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material_Glass/a_material_glass_2.png"
+        }
+      ]
+    },
+    {
+      "name": "Abstract",
+      "image": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material_Glass/wind_white.png",
+      "wallpapers": [
+        {
+          "id": "abstract1",
+          "title": "Colorful Patterns",
+          "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material_Glass/wind_white.png"
+        },
+        {
+          "id": "abstract2",
+          "title": "Geometric Shapes",
+          "url": "https://example.com/abstract2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Minimal",
+      "image": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material_Glass/wind_white.png",
+      "wallpapers": [
+        {
+          "id": "minimal1",
+          "title": "Simple Lines",
+          "url": "https://example.com/minimal1.jpg"
+        },
+        {
+          "id": "minimal2",
+          "title": "Flat Design",
+          "url": "https://example.com/minimal2.jpg"
+        }
+      ]
+    }
+  ]
+}
