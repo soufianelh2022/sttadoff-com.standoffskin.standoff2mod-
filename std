@@ -2,49 +2,84 @@
   "categories": [
     {
       "name": "Nature",
-      "image": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material_Glass/aurora.png",
+      "image": "https://i.ytimg.com/vi/qN3WcyoCY70/maxresdefault.jpg",
       "wallpapers": [
         {
           "id": "nature1",
           "title": "Mountain Landscape",
-          "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material_Glass/a_material_glass.png"
+          "url": "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/1867317/4Q6NbD1H64foYrVuhiAQQ.jpg"
+        },
+{
+          "id": "nature1",
+          "title": "Mountain Landscape",
+          "url": "https://i.ytimg.com/vi/qSSOuezwQjk/maxresdefault.jpg"
+        },
+{
+          "id": "nature1",
+          "title": "Mountain Landscape",
+          "url": "https://i.ytimg.com/vi/3eJc275_TqA/maxresdefault.jpg"
+        },
+{
+          "id": "nature1",
+          "title": "Mountain Landscape",
+          "url": "https://i.ytimg.com/vi/Cu8x_vymUDM/maxresdefault.jpg"
         },
         {
           "id": "nature2",
           "title": "Tropical Beach",
-          "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material_Glass/a_material_glass_2.png"
+          "url": "https://avatars.dzeninfra.ru/get-zen_doc/98843/pub_6249ac4d0a7bff364fc4b43c_6249ac970a7bff364fc54a8d/scale_1200"
         }
       ]
     },
     {
       "name": "Abstract",
-      "image": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material_Glass/wind_white.png",
+      "image": "https://i.ytimg.com/vi/zmYTaOfCd1E/maxresdefault.jpg",
       "wallpapers": [
         {
           "id": "abstract1",
           "title": "Colorful Patterns",
-          "url": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material_Glass/wind_white.png"
+          "url": "https://i.ytimg.com/vi/cmh33_3YYt0/maxresdefault.jpg"
+        },
+{
+          "id": "abstract1",
+          "title": "Colorful Patterns",
+          "url": "https://pic.rutubelist.ru/video/37/8b/378bf69e6f22fdc3078754d1259edc36.jpg"
+        },
+{
+          "id": "abstract1",
+          "title": "Colorful Patterns",
+          "url": "https://sun9-24.userapi.com/impg/cqG7Zi9qipU2fB5y37uyvo13LJnGLUaft3YTIA/reriX3s9HWc.jpg?size=1280x720&quality=95&sign=0293cdec4b8491b60c8f0f4ba2341c8b&c_uniq_tag=vUK_X0qxDiOM4W2OK4wrzp8zfsGTis2Fx8FCvyf6x7Q&type=album"
         },
         {
           "id": "abstract2",
           "title": "Geometric Shapes",
-          "url": "https://example.com/abstract2.jpg"
+          "url": "https://i.ytimg.com/vi/_tHldPQiqvU/maxresdefault.jpg"
         }
       ]
     },
     {
       "name": "Minimal",
-      "image": "https://raw.githubusercontent.com/asdfasdfvful/Pitched-Wallpapers/master/Material_Glass/wind_white.png",
+      "image": "https://i.ytimg.com/vi/BlmzV5M1QkQ/maxresdefault.jpg",
       "wallpapers": [
         {
           "id": "minimal1",
           "title": "Simple Lines",
-          "url": "https://example.com/minimal1.jpg"
+          "url": "https://i.ytimg.com/vi/p0ZU2dr-sAw/maxresdefault.jpg"
+        },
+ {
+          "id": "minimal1",
+          "title": "Simple Lines",
+          "url": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_658ff51297d5a958a91a51db_658ff51797d5a958a91a52ad/scale_1200"
+        },
+ {
+          "id": "minimal1",
+          "title": "Simple Lines",
+          "url": "https://i.ytimg.com/vi/TWKhTo2M0ws/maxresdefault.jpg"
         },
         {
           "id": "minimal2",
           "title": "Flat Design",
-          "url": "https://example.com/minimal2.jpg"
+          "url": "https://i.ytimg.com/vi/0cMyLp64oNw/maxresdefault.jpg"
         }
       ]
     }
