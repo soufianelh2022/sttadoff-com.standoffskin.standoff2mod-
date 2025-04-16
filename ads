@@ -9,10 +9,10 @@
   
 
   
-  "openadyandex":"demo-appopenad-yandex",
-  "yandex_inter":"demo-interstitial-yandex",
-  "yandex_banner":"demo-banner-yandex",
-  "yandex_native":"demo-native-app-yandex",
+  "openadyandex":"c879b7d894984d5e",
+  "yandex_inter":"df7fd4113cfaa2de",
+  "yandex_banner":"9957e59cd46c27df",
+  "yandex_native":"dfb4d92336784280",
   
   
   "MaxBanner": "7c217530b37da6db",
@@ -20,10 +20,10 @@
   "MaxInterstitial": "c9feceddbf0d8ec2",
   "Maxopen":"9f9e60545e946f33",
   
-  "PriorityBanner":"yandex",
-  "PriorityNative":"yandex",
-  "PriorityOpen":"yandex",
-  "priorityInterstitial":"yandex"
+  "PriorityBanner":"max",
+  "PriorityNative":"max",
+  "PriorityOpen":"max",
+  "priorityInterstitial":"max"
  
 
   
